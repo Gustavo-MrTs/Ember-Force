@@ -1,0 +1,14 @@
+Opa lipão blz?
+
+No jogo eu fiz 3 tipos de animações diferentes:
+
+1: Running, que vc vai ver no momento que começar a jogar
+
+2: Jumping, se vc deslisar o dedo para cima ela pula
+
+3: Death, caso vc tome dano sem ter "Sobre vida/Armadura" que é indicada
+na barra lateral a esquerda, ela começa a animação de morte e finaliza o
+jogo logo em seguida.
+
+Obs: Caso tenha dificuldades com o jogo, o cheat de imortalidade
+é tocar com 2 dedos na tela.
